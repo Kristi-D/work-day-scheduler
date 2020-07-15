@@ -4,7 +4,7 @@ Description
 Generates a daily schedule!
 
 Installation
+Found some code on stack overflow
 
 
 Usage
-//Provide instructions and examples for use. Include screenshots as needed.
